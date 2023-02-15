@@ -1,0 +1,93 @@
+html {
+    font-family: Manrope;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 45px;
+    background-image: url(../img/body/1639751514_146-catherineasquithgallery-com-p-rozovii-sladkii-fon-253.jpg);
+    background-size: contain;
+}
+
+.img {
+    height: 100%;
+    width: 100%;
+}
+
+.top-header{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    background-image: url(../img/header/x35F33F67-FA50-4FFF-9C40-BA394F3F4303.jpeg.pagespeed.ic.oSN6CHQmGp.jpg);
+    background-size: 100% 100%;
+    color: white;
+    align-items: center;
+}
+
+.logo {
+    height: 90px;
+    width: 90px;
+    background-image: url(../img/header/ico.jpg);
+    background-size: 100% 100%;
+    border-radius: 40%;
+    margin: 0 15px 0 15px;
+}
+
+.aga {
+    margin-left: auto;
+    margin-right: 50px;
+}
+
+/* ===================================================== */
+
+.container {
+    display: block;
+    height: 100%;
+    width: 1250px;
+    margin: 10px auto;
+    background-color: rgba(0, 0, 0, 0.336);
+    backdrop-filter: blur(5px);
+    border-radius: 15px;
+    padding: 0 auto;
+    padding-top: 20px;
+}
+/* ---------------------------------------------- */
+.post1 {
+    height: auto;
+    width: 850px;
+    background-color: white;
+    border-radius: 8px;
+    padding: 5px 0 5px 0;
+    margin: 0 auto;
+}
+
+.p1 {
+    display: block;
+    margin: 0 auto 5px auto;
+    font-weight: 500;
+    font-size: 25px;
+    width: 600px;
+    color: plum;
+}
+
+.img1 {
+    display: block;
+    width: 750px;
+    border-radius: 8px;
+    margin: 0 auto;
+}
+
+/* ===================================================== */
+
+.inf {
+    display: flex;
+    height: 100px;
+    margin: 0;
+    background-color: black;
+    color: white;
+    font-weight: 500;
+    font-size: 15px;
+    padding: 10px 0 0 15px;
+}
+
+.element_inf {
+    margin-top: 5px;
+}

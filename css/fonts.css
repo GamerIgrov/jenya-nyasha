@@ -1,0 +1,30 @@
+@font-face {
+    font-family: Manrope;
+    font-weight: 400;
+    font-style: normal;
+    src: local("Lato"),
+            url(../fonts/Manrope-Regular.woff2) format('woff2'),
+            url(../fonts/Manrope-Regular.woff) format('woff'),
+            url(../fonts/Manrope-Regular.eot) format('eot');
+    font-display: swap;
+}
+@font-face {
+    font-family: Manrope;
+    font-weight: 500;
+    font-style: normal;
+    src: local("Lato"),
+            url(../fonts/Manrope-Medium.woff2) format('woff2'),
+            url(../fonts/Manrope-Medium.woff) format('woff'),
+            url(../fonts/Manrope-Medium.eot) format('eot');
+    font-display: swap;
+}
+@font-face {
+    font-family: Manrope;
+    font-weight: 600;
+    font-style: normal;
+    src: local("Lato"),
+            url(../fonts/Manrope-Semibold.woff2) format('woff2'),
+            url(../fonts/Manrope-Semibold.woff) format('woff'),
+            url(../fonts/Manrope-Semibold.eot) format('eot');
+    font-display: swap;
+}
